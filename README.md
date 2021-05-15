@@ -17,3 +17,5 @@ Use the following command in your terminal in the folder :
 ```bash
 npm run web
 ```
+
+Then you have to flash the **QR code** with the [Expo](https://expo.io/) application to view the game on your phone.
