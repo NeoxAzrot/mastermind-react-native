@@ -19,3 +19,7 @@ npm run web
 ```
 
 Then you have to flash the **QR code** with the [Expo](https://expo.io/) application to view the game on your phone.
+
+---
+
+[Sami Lafrance](https://www.samilafrance.com/)
